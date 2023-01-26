@@ -52,6 +52,7 @@
 }
 .card .card-img-top {
   height: 200px;
+  cursor: pointer;
 }
 .card .card-body .card-title {
   font-size: 18px;
