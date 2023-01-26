@@ -1,0 +1,16 @@
+
+footer .footer-strip{
+  margin: 0px;
+  background: #af966b;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+footer {
+  background: #343a40;
+  padding-top: 40px;
+}
+footer a {
+  color: #f8f9fa!important
+}
